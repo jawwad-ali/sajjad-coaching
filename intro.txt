@@ -1,0 +1,33 @@
+32 bit OR 64 Bit
+    -Visual Studio Code
+
+
+Web development
+    -Front end development
+        -HTML
+        -CSS
+        -JS
+    
+    -Back end development
+        -PHP
+        -Python
+        -C#
+        -C++
+    
+    -Full Stack development
+
+
+
+HTML
+    -Hyper text Markup Language
+        -Skeleton of a weboage
+
+CSS
+    -Cascading Style Sheet
+        -Styling of a webpage
+JS
+    -Javascript
+        For Events or Functional touches
+
+
+Visual Studio Code
