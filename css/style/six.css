@@ -1,0 +1,16 @@
+.head {
+  color: purple;
+  font-family: "Lobster", cursive;
+}
+
+.text {
+  font-family: "Patrick Hand", cursive;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
