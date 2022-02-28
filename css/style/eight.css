@@ -1,0 +1,22 @@
+body{
+    background: rgb(87, 87, 51);
+}
+
+.margin {
+  height: 200px;
+  width: 200px;
+  background: rgb(177, 14, 41);
+
+  /* First Method  */
+
+  /* margin-top: 20px; */
+  /* margin-left:60px; */
+  /* margin-left: -10px; */
+  /* margin-bottom:80px; */
+
+  /* Second Method */
+
+  /* margin: top&bottom , left&right  ;  */
+
+  margin: 45px 65px;
+}
