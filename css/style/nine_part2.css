@@ -1,0 +1,18 @@
+.block {
+  height: 200px;
+  width: 200px;
+  background: red;
+  margin-top: 5px;
+
+  display: inline-block;
+}
+
+img {
+  height: 350px;
+  width: 350px;
+  display: block;
+}
+
+a {
+  display: block;
+}
