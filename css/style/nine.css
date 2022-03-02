@@ -1,0 +1,40 @@
+body {
+  background: rgb(149, 58, 73);
+}
+
+.margin {
+  height: 200px;
+  width: 200px;
+  background: pink;
+
+  /*  */
+
+  /* margin-top:10px;
+    margin-left:15px; */
+
+  /*  */
+  /* margin: 28px 43px ; */
+
+  /*  */
+  margin: 20px 33px 81px 11px;
+}
+
+.padding-container{
+    height: 90px;
+    width: 500px;
+    background: #000;
+    color: white;
+}
+
+.padding{
+    
+    /* padding-top:15px;
+    padding-left: 25px;
+    padding-right: 36px;
+    padding-bottom:90px; */
+
+
+    /* padding: 45px 35px; */
+
+    padding:35px 45px 11px 88px;
+}
